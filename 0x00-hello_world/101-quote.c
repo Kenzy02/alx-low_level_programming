@@ -2,11 +2,12 @@
 #include <unistd.h>
 
 /**
- * Main - Entry point
+ * main - Entry point
  *
  * Description: a C program that prints exactly a given sentence
+ *  using write function.
  *
- * Return: Always 1 (Success)
+ * Return: 1 (error).
  *
 */
 
